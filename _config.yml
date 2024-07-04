@@ -26,7 +26,7 @@ baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://cassio-maletich.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cassio-maletich
 linkedin_username:  cassio-maletich
-
+google_analytics: G-FH9WQK2BEZ
 # Build settings
 theme: minima
 plugins:
