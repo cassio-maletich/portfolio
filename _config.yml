@@ -22,12 +22,10 @@ title: Cássio Maletich - Fullstack Developer
 email: cassio.maletich@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Experienced Fullstack Developer with a strong background in Ruby on Rails and Javascript.
-  Successfully managed and developed projects, including websites, native apps, and web
-  applications.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://cassio-maletich.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
 github_username:  cassio-maletich
+linkedin_username:  cassio-maletich
 
 # Build settings
 theme: minima
