@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leading an AI-Powered Data Scraping and Processing Project"
+title:  "Leading an AI-Powered Data Scraping Project"
 date:   2024-04-04 12:23:04 -0300
 categories: jekyll update
 ---

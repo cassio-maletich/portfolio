@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Developing an MVP for Legal Contract Assignment"
-date:   2022-08-04 12:34:56 -0300
+date:   2023-12-04 12:34:56 -0300
 categories: jekyll update
 ---
 # It’s better to be safe than sorry
