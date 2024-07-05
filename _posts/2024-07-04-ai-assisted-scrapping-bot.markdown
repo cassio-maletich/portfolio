@@ -2,7 +2,7 @@
 layout: post
 title:  "Leading an AI-Powered Data Scraping Project"
 date:   2024-04-04 12:23:04 -0300
-categories: jekyll update
+categories: cases
 ---
 # The new frontier
 As a seasoned full-stack Ruby on Rails developer, I spearheaded an advanced project focused on data scraping and processing using the OpenAI API. The goal was to automate document management for investors by developing a sophisticated bot utilizing the Puppeteer API.

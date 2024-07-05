@@ -2,7 +2,7 @@
 layout: post
 title:  "Developing an MVP for Legal Contract Assignment"
 date:   2023-12-04 12:34:56 -0300
-categories: jekyll update
+categories: cases
 ---
 # It’s better to be safe than sorry
 I developed a minimum viable product (MVP) for a startup aimed at simplifying the process for investors to assign legally binding contracts. Leveraging the DocuSign API and Ruby on Rails, our team created a robust platform that streamlined contract assignment workflows.

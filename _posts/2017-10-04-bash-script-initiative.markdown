@@ -2,7 +2,7 @@
 layout: post
 title:  "Automating HTML Newsletter Generation"
 date:   2017-10-04 12:34:56 -0300
-categories: jekyll update
+categories: cases
 ---
 # The Bash Script Initiative
 In my early days as a developer, I got handled more mundane tasks, which is a natural part of the learning process. One of my regular assignments was to deliver HTML code for a weekly newsletter for an online shoe store that my company attended to at the time.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Migrating to the Selling Partner API"
 date:   2022-08-04 12:34:56 -0300
-categories: jekyll update
+categories: cases
 ---
 # Strike while the iron is hot
 I undertook a complex project involving the migration from the Amazon Marketplace API to the new Selling Partner API, driven by the need to comply with updated privacy laws. This migration presented significant challenges, akin to rebuilding an entire application to accommodate specific regulatory requirements.

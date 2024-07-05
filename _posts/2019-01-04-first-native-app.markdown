@@ -2,7 +2,7 @@
 layout: post
 title:  "The Native App Project"
 date:   2019-01-04 12:34:56 -0300
-categories: jekyll update
+categories: cases
 ---
 # Actions speak louder than words
 Faced with a challenging native app project, our team initially lacked the necessary expertise. The client had already provided a layout and built a backend for the project, but the previous company they hired had failed to deliver. With a tight deadline of 45 days to create a minimum viable product (MVP), the pressure was on.

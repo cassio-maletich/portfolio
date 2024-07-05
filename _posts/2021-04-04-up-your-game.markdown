@@ -2,7 +2,7 @@
 layout: post
 title:  "Working on a Massive App with Thousands of Concurrent Users"
 date:   2021-05-04 12:34:56 -0300
-categories: jekyll update
+categories: cases
 ---
 # Up your Game
 My first experience working on a massive app with thousands of concurrent users daily was challenging and rewarding. One of my initial assignments was to create a new subscription tier with limited functionality. This task provided a deep dive into the complexities of maintaining and enhancing a large-scale application.

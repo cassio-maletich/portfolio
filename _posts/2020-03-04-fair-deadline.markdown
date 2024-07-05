@@ -2,7 +2,7 @@
 layout: post
 title:  "Leading the Development of a Native App for a Trade Fair"
 date:   2020-03-04 12:34:56 -0300
-categories: jekyll update
+categories: cases
 ---
 # The Fair Deadline
 As the lead developer for a native app project, I took on the responsibility of creating a high-quality application for a company with a tight deadline. Acting as the senior developer, I was primarily responsible for the front-end development using React Native. My role involved not only writing and optimizing code but also communicating the project's needs to the rest of the development team.

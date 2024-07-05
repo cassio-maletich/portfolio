@@ -2,7 +2,7 @@
 layout: post
 title:  "First Technical Leading Project"
 date:   2018-01-04 12:34:56 -0300
-categories: jekyll update
+categories: cases
 ---
 # Head first
 As the project leader for the new Varilux Brasil website, I took on a multifaceted role that encompassed a range of responsibilities. From the outset, I was involved in gathering requirements directly from the client, ensuring that we had a clear understanding of their needs and goals.
